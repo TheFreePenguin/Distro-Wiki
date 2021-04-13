@@ -1,45 +1,20 @@
-Ẁelcome to DistroWiki!
+# Ẁelcome to DistroWiki!
 
 Browse the menus to search for Linux/BSD/Haiku/ReactOS Distros!
 
-<details>
-<summary>Debian-based distros</summary>
-
+## Debian-based distros
 [Debian](debian.md)
-</details>
 
-<details>
-<summary>Slackware-based distros</summary>
-<br>
-No distros here currently
-</details>
+## Slackware-based distros
 
-<details>
-<summary>Red Hat-based distros</summary>
-<br>
-No distros here currently
-</details>
+## Red Hat-based distros
 
-<details>
-<summary>Arch-based distros</summary>
-<br>
-No distros here currently
-</details>
+## Arch-based distros
 
-<details>
-<summary>SUSE-based distros</summary>
-<br>
-No distros here currently
-</details>
+## SUSE-based distros
 
-<details>
-<summary>BSD distros</summary>
-<br>
-No distros here currently
-</details>
+## Android-based distros
 
-<details>
-<summary>Independent distros</summary>
-<br>
-No distros here currently
-</details>
+## BSD distros
+
+## Independent distros
