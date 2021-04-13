@@ -4,7 +4,7 @@ Browse the menus to search for Linux/BSD/Haiku/ReactOS Distros!
 
 <details>
 <summary>Debian-based distros</summary>
-<br>
+
 [Debian](debian.md)
 </details>
 
