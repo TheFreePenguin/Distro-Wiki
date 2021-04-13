@@ -1,6 +1,6 @@
 # Debian
 
-<img src=icons/debi.png> </img>
+![](icons/debi.png)
 
 ## Stats and Facts:
 Package Manager: apt (frontend) dpkg (backend)
