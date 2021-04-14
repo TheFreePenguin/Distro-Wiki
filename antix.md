@@ -13,7 +13,7 @@ antiX is a [Debian](debian.md)-based GNU/Linux distribution that is geared towar
 
 ## Downloads
 
-Bullseye (Testing): [Download](https://sourceforge.net/projects/antix-linux/files/Testing/antiX-bullseye-a2-runit_x64-full.iso/download)<br>
+Bullseye (testing): [Download](https://sourceforge.net/projects/antix-linux/files/Testing/antiX-bullseye-a2-runit_x64-full.iso/download)<br>
 Version 19: [Download](https://sourceforge.net/projects/antix-linux/files/Final/antiX-19/antiX-19.3_x64-full.iso/download)<br>
 Version 17: [Download](https://sourceforge.net/projects/antix-linux/files/Final/antiX-17.4.1/antiX-17.4.1_x64-full.iso/download)<br>
 Version 16: [Download](https://sourceforge.net/projects/antix-linux/files/old/antiX-16/antiX-16.2_x64-full.iso/download)<br>
