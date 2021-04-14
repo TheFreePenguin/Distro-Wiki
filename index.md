@@ -10,7 +10,7 @@ Browse the menus to search for Linux/BSD/Haiku/ReactOS Distros!
 [MX](mx.md)
 
 ### Ubuntu-based distros
-[Ubuntu](ubuntu.md)
+[Ubuntu](ubuntu.md)<br>
 [Linux Lite](lite.md)
 
 ## Slackware-based distros
