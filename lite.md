@@ -6,7 +6,7 @@
 Package Manager: apt (frontend), dpkg (backend)<br>
 Latest Stable Version: 5.4<br>
 Latest Development Version: 5.4<br>
-Release Cycle: \[put release cycle here.\]
+Release Cycle: Static Release
 
 ## Description
 Linux Lite is a [Debian](debian.md) GNU/Linux distribution that is geared towards users of older computers. Like its name suggests, it is very lightweight. 
