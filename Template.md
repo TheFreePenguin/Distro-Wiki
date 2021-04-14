@@ -3,9 +3,9 @@
 \[distro logo goes here, make sure it's 512x512\]
 
 ## Stats and Facts:
-Package Manager: \[package manager goes here\]
-Latest Stable Version: \[latest stable version goes here\]
-Latest Development Version: \[latest development version goes here\]
+Package Manager: \[package manager goes here\]<br>
+Latest Stable Version: \[latest stable version goes here\]<br>
+Latest Development Version: \[latest development version goes here\]<br>
 Release Cycle: \[put release cycle here.\]
 
 ## Description
