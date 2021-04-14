@@ -9,7 +9,7 @@ Latest Development Version: 19.2<br>
 Release Cycle: Static Release
 
 ## Description
-antiX is a [Debian](debian.md) GNU/Linux distribution that is geared towards users with older computers. Its code is also used to create [MX](mx.md).
+antiX is a [Debian](debian.md)-based GNU/Linux distribution that is geared towards users with older computers. Its code is also used to create [MX](mx.md).
 
 ## Downloads
 
