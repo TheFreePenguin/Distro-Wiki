@@ -1,4 +1,4 @@
-# Ẁelcome to DistroWiki!
+# Welcome to DistroWiki!
 
 Browse the menus to search for Linux/BSD/Haiku/ReactOS Distros!
 
