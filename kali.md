@@ -1,6 +1,6 @@
 # Kali
 
-![](icons/kali.png)
+![](icons/Kali.png)
 
 ## Stats and Facts:
 Package Manager: apt (frontend), dpkg (backend)<br>
