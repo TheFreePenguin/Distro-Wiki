@@ -9,7 +9,7 @@ Latest Development Version: 20.10<br>
 Release Cycle: 
 
 ## Description
-Pop!\_OS is a [Debian](debian.md)-based GNU/Linux distribution that is geared towards desktop users. It uses a special installer resembling Fedora's anaconda installer. It also is preinstalled on System76 laptops.
+Pop!\_OS is an [Ubuntu](ubuntu.md)-based GNU/Linux distribution that is geared towards desktop users. It uses a special installer resembling Fedora's anaconda installer. It also is preinstalled on System76 laptops.
 
 ## Downloads
 
