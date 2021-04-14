@@ -1,6 +1,6 @@
 # Deepin
 
-![icons/deepin.png]
+![](icons/deepin.png)
 
 ## Stats and Facts:
 Package Manager: apt (frontend), dpkg (backend)<br>
