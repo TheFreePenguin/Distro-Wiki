@@ -12,7 +12,7 @@ Release Cycle: LTS-based Static Release<br>
 Ubuntu is a [Debian](debian.md)-based GNU/Linux distribution that is geared towards beginners. It was created by Canonical in 2004 because GNU/Linux was hard to install at that time. So, Canonical forked the project to make Ubuntu, also known as "Linux for Human Beings".
 
 ## Downloads
-Version 21.04 (in development): [Download](https://cdimage.ubuntu.com/daily-live/current/hirsute-desktop-amd64.iso)<br>
+Version 21.04 (testing): [Download](https://cdimage.ubuntu.com/daily-live/current/hirsute-desktop-amd64.iso)<br>
 Version 20.10: [Download](https://releases.ubuntu.com/20.10/ubuntu-20.10-desktop-amd64.iso)<br>
 Version 20.04 LTS: [Download](https://releases.ubuntu.com/20.04/ubuntu-20.04.2.0-desktop-amd64.iso)<br>
 Version 19.10: [Download](http://old-releases.ubuntu.com/releases/eoan/ubuntu-19.10-desktop-amd64.iso)<br>
