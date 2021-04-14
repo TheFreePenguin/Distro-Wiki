@@ -12,6 +12,8 @@ Browse the menus to search for Linux/BSD/Haiku/ReactOS Distros!
 
 ## Red Hat-based distros
 
+## Gentoo-based distros
+
 ## Arch-based distros
 
 ## SUSE-based distros
