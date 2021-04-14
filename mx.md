@@ -1,6 +1,6 @@
 # MX Linux
 
-![](icons/proxy-image \(2\).png)
+![](icons/proxy-image\ \(2\).png)
 
 ## Stats and Facts:
 Package Manager: apt (frontend), dpkg (backend)<br>
