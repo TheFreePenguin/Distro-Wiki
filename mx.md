@@ -6,7 +6,7 @@
 Package Manager: apt (frontend), dpkg (backend)<br>
 Latest Stable Version: 19.4
 Latest Development Version: 19.4<br>
-Release Cycle: \[put release cycle here.\]
+Release Cycle: Static Release
 
 ## Description
 MX is a [Debian](debian.md)-based GNU/Linux distribution that is geared towards desktop users. Its interface is neither inspired by Windows or macOS. Instead, it has a single panel on the side.
