@@ -11,6 +11,7 @@ Browse the menus to search for Linux/BSD/Haiku/ReactOS Distros!
 
 ### Ubuntu-based distros
 [Ubuntu](ubuntu.md)
+[Linux Lite](lite.md)
 
 ## Slackware-based distros
 
