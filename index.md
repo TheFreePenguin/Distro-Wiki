@@ -4,6 +4,7 @@ Browse the menus to search for Linux/BSD/Haiku/ReactOS Distros!
 
 ## Debian-based distros
 [Debian](debian.md)
+[Deepin](deepin.md)
 
 ### Ubuntu-based distros
 [Ubuntu](ubuntu.md)
