@@ -9,7 +9,7 @@ Latest Development Version: 2021.1<br>
 Release Cycle: Static Release
 
 ## Description
-Kali is a [Debian](debian.md) GNU/Linux distribution that is geared towards penetration testers. It comes with various tools for penetration testing.
+Kali is a [Debian](debian.md)-based GNU/Linux distribution that is geared towards penetration testers. It comes with various tools for penetration testing.
 
 ## Downloads
 
