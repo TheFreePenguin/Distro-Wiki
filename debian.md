@@ -3,13 +3,13 @@
 ![](icons/debi.png)
 
 ## Stats and Facts:
-Package Manager: apt (frontend) dpkg (backend)
-Latest Stable Version: 10
-Latest Development Version: 11
-Release Cycle: Static Release (stable, testing) Rolling Release (unstable)
+Package Manager: apt (frontend) dpkg (backend)<br>
+Latest Stable Version: 10<br>
+Latest Development Version: 11<br>
+Release Cycle: Static Release (stable, testing) Rolling Release (unstable)<br>
 
 ## Description
-Debian is a GNU/Linux distribution that is geared towards the average Linux user. Stable and powerful, it is the base for many Linux distros, such as Ubuntu, MX, and Deepin. It has 3 branches: The *stable* branch, the *testing* branch, and the *unstable* branch, which is rolling release.
+Debian is a GNU/Linux distribution that is geared towards the average Linux user. Stable and powerful, it is the base for many Linux distros, such as [Ubuntu](ubuntu.md), MX, and Deepin. It has 3 branches: The *stable* branch, the *testing* branch, and the *unstable* branch, which is rolling release.
 
 ## Downloads
 Version 11 (testing): [Download](https://cdimage.debian.org/cdimage/weekly-builds/amd64/iso-cd/debian-testing-amd64-netinst.iso)<br>
