@@ -1,6 +1,6 @@
 # Linux Lite
 
-\[logo\]
+![](icons/LL.png)
 
 ## Stats and Facts:
 Package Manager: apt (frontend), dpkg (backend)<br>
