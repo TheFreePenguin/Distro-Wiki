@@ -3,7 +3,7 @@
 
 ## Stats and Facts:
 Package Manager: apt (frontend), dpkg (backend)<br>
-Latest Stable Version: 19.4
+Latest Stable Version: 19.4<br>
 Latest Development Version: 19.4<br>
 Release Cycle: Static Release
 
