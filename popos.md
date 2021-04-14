@@ -13,5 +13,5 @@ Pop!\_OS is a [Debian](debian.md)-based GNU/Linux distribution that is geared to
 
 ## Downloads
 
-Version 20.10: [Download](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/20.10/amd64/intel/14/pop-os_20.10_amd64_intel_14.iso)
+Version 20.10: [Download](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/20.10/amd64/intel/14/pop-os_20.10_amd64_intel_14.iso)<br>
 Version 20.04 LTS: [Download](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/20.04/amd64/intel/26/pop-os_20.04_amd64_intel_26.iso)
