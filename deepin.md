@@ -6,7 +6,7 @@
 Package Manager: apt (frontend), dpkg (backend)<br>
 Latest Stable Version: 20.2<br>
 Latest Development Version: 20.2<br>
-Release Cycle: \[put release cycle here.\]
+Release Cycle: Static Release
 
 ## Description
 Deepin is a [Debian](debian.md)-based GNU/Linux distribution that is geared towards desktop users. It has a special desktop environment called the Deepin Desktop Environment, which will seem familiar to newcomers from Windows.
