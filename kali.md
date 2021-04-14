@@ -1,6 +1,6 @@
 # Kali
 
-\[distro logo goes here, make sure it's 512x512\]
+![](icons/kali.png)
 
 ## Stats and Facts:
 Package Manager: apt (frontend), dpkg (backend)<br>
