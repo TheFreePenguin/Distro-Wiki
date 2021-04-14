@@ -9,7 +9,7 @@ Latest Development Version: 5.4<br>
 Release Cycle: Static Release
 
 ## Description
-Linux Lite is a [Debian](debian.md)-based GNU/Linux distribution that is geared towards users of older computers. Like its name suggests, it is very lightweight. 
+Linux Lite is an [Ubuntu](ubuntu.md)-based GNU/Linux distribution that is geared towards users of older computers. Like its name suggests, it is very lightweight. 
 
 ## Downloads
 
