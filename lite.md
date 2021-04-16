@@ -6,7 +6,8 @@
 Package Manager: apt (frontend), dpkg (backend)<br>
 Latest Stable Version: 5.4<br>
 Latest Development Version: 5.4<br>
-Release Cycle: Static Release
+Release Cycle: Static Release<br>
+Website: https://linuxliteos.com
 
 ## Description
 Linux Lite is an [Ubuntu](ubuntu.md)-based GNU/Linux distribution that is geared towards users of older computers. Like its name suggests, it is very lightweight. 
