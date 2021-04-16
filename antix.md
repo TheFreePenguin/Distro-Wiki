@@ -6,7 +6,8 @@
 Package Manager: apt (frontend), dpkg (backend)<br>
 Latest Stable Version: 19.2<br>
 Latest Development Version: 19.2<br>
-Release Cycle: Static Release
+Release Cycle: Static Release<br>
+Website: https://antixlinux.com
 
 ## Description
 antiX is a [Debian](debian.md)-based GNU/Linux distribution that is geared towards users with older computers. Its code is also used to create [MX](mx.md).
