@@ -13,7 +13,8 @@ Browse the menus to search for Linux/BSD/Haiku/ReactOS Distros!
 [Ubuntu](ubuntu.md)<br>
 [Linux Lite](lite.md)<br>
 [Linux Mint](mint.md)<br>
-[Pop!\_OS](popos.md)
+[Pop!\_OS](popos.md)<br>
+[Zorin OS](zorin.md)<br>
 
 ## Slackware-based distros
 
