@@ -6,7 +6,7 @@
 Package Manager: apt (frontend), dpkg (backend)<br>
 Latest Stable Version: 15.3<br>
 Latest Development Version: 16.0<br>
-Release Cycle: Static Release
+Release Cycle: Static Release<br>
 Website: https://zorinos.com
 
 ## Description
