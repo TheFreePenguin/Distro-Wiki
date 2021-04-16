@@ -6,7 +6,8 @@
 Package Manager: apt (frontend), dpkg (backend)<br>
 Latest Stable Version: 20.1<br>
 Latest Development Version: 20.1<br>
-Release Cycle: LTS-based Static Release
+Release Cycle: LTS-based Static Release<br>
+Website: https://linuxmint.com
 
 ## Description
 Linux Mint is an [Ubuntu](ubuntu.md)-based GNU/Linux distribution that is geared towards beginners. Unlike Ubuntu, snaps are not installed by default. Instead, Linux Mint uses flatpaks. It also features a Debian edition as a backup in case [Ubuntu](ubuntu.md) adds too much telemetry.
