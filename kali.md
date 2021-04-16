@@ -6,7 +6,8 @@
 Package Manager: apt (frontend), dpkg (backend)<br>
 Latest Stable Version: 2021.1<br>
 Latest Development Version: 2021.1<br>
-Release Cycle: Static Release
+Release Cycle: Static Release<br>
+Website: https://kali.org
 
 ## Description
 Kali is a [Debian](debian.md)-based GNU/Linux distribution that is geared towards penetration testers. It comes with various tools for penetration testing.
