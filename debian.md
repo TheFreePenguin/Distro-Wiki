@@ -7,6 +7,7 @@ Package Manager: apt (frontend) dpkg (backend)<br>
 Latest Stable Version: 10<br>
 Latest Development Version: 11<br>
 Release Cycle: Static Release (stable, testing) Rolling Release (unstable)<br>
+Website: https://debian.org
 
 ## Description
 Debian is a GNU/Linux distribution that is geared towards the desktop user. Stable and powerful, it is the base for many Linux distros, such as [Ubuntu](ubuntu.md), [MX](mx.md), and [Deepin](deepin.md). It has 3 branches: The *stable* branch, the *testing* branch, and the *unstable* branch, which is rolling release.
