@@ -32,7 +32,7 @@ Version 13.10: [Download](http://old-releases.ubuntu.com/releases/saucy/ubuntu-1
 Version 13.04: [Download](http://old-releases.ubuntu.com/releases/raring/ubuntu-13.04-desktop-amd64.iso)<br>
 Version 12.10: [Download](http://old-releases.ubuntu.com/releases/quantal/ubuntu-12.10-desktop-amd64.iso)<br>
 Version 12.04 LTS: [Download](http://old-releases.ubuntu.com/releases/precise/ubuntu-12.04-desktop-amd64.iso)<br>
-Version 11.10: [Download](http://old-releases.ubuntu.com/releases/oneiric/ubuntu-11.10-alternate-i386.iso)<br>
+Version 11.10: [Download](http://old-releases.ubuntu.com/releases/oneiric/ubuntu-11.10-desktop-amd64.iso)<br>
 Version 11.04: [Download](http://old-releases.ubuntu.com/releases/natty/ubuntu-11.04-desktop-amd64.iso)<br>
 Version 10.10: [Download](http://old-releases.ubuntu.com/releases/maverick/ubuntu-10.10-desktop-amd64.iso)<br>
 Version 10.04 LTS: [Download](http://old-releases.ubuntu.com/releases/lucid/ubuntu-10.04.1-desktop-amd64.iso)<br>
