@@ -1,6 +1,6 @@
 # Linux Mint
 
-![](icons/main.png)
+![](icons/mint.png)
 
 ## Stats and Facts:
 Package Manager: apt (frontend), dpkg (backend)<br>
