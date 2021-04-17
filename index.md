@@ -7,6 +7,7 @@ Browse the menus to search for Linux/BSD/Haiku/ReactOS Distros!
 [antiX](antix.md)<br>
 [Deepin](deepin.md)<br>
 [Kali](kali.md)<br>
+[LMDE \(Linux Mint Debian Edition\)](lmde.md)
 [MX](mx.md)
 
 ### Ubuntu-based distros
