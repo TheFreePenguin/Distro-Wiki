@@ -10,7 +10,7 @@ Release Cycle: LTS-based Static Release<br>
 Website: https://linuxmint.com
 
 ## Description
-Linux Mint is an [Ubuntu](ubuntu.md)-based GNU/Linux distribution that is geared towards beginners. Unlike Ubuntu, snaps are not installed by default. Instead, Linux Mint uses flatpaks. It also features a Debian edition as a backup in case [Ubuntu](ubuntu.md) adds too much telemetry.
+Linux Mint is an [Ubuntu](ubuntu.md)-based GNU/Linux distribution that is geared towards beginners. Unlike Ubuntu, snaps are not installed by default. Instead, Linux Mint uses flatpaks. It also features a [Debian edition](lmde.md) as a backup in case [Ubuntu](ubuntu.md) adds too much telemetry.
 
 ## Downloads
 
