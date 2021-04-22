@@ -6,12 +6,12 @@
 Package Manager: apt (frontend), dpkg (backend)<br>
 Latest Stable Version: 20.10<br>
 Latest Development Version: 21.04<br>
-Release Cycle: \[put release cycle here.\]<br>
-Website: https:\/\/website
+Release Cycle: LTS-based Static Release<br>
+Website: https://kubuntu.org
 
 ## Description
-\[name\] is a \[base if needed\] \[type\] distribution that is geared towards \[target installer\] \[rest of desc\]
+Kubuntu is an [Ubuntu](ubuntu.md)-based GNU/Linux distribution that is geared towards desktop users. It is practically [Ubuntu](ubuntu.md) but with the KDE Plasma desktop environment. 
 
 ## Downloads
 
-\[downloads go here, be sure to put one for every major version\].
+I'll do downloads later
