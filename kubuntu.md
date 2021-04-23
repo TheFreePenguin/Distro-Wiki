@@ -1,6 +1,6 @@
 # Kubuntu
 
-\[distro logo goes here, make sure it's 512x512\]
+![](icons/kubuntu.png)
 
 ## Stats and Facts:
 Package Manager: apt (frontend), dpkg (backend)<br>
